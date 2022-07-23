@@ -1,0 +1,59 @@
+.c {
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+    margin: auto;
+}
+
+.c2 {
+    display: none;
+}
+
+.row {
+    border-bottom: 1px solid aliceblue;
+    margin: 10px;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+    /* margin-right: 10px; */
+}
+
+.name {
+    font-size: 16px;
+    /* width: 150px; */
+    color: rgb(10, 241, 10);
+}
+
+.coin-symbol {
+    text-transform: uppercase;
+}
+
+.coin-price {
+    color: rgba(245, 235, 56, 0.981);
+}
+
+.coin-marketcap {
+    color: rgb(194, 21, 194);
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: rgb(12, 201, 100);
+}
+
+@media screen  and (max-width: 785px) {
+    .c {
+        display: none;
+    }
+
+    .c2 {
+        display: flex;
+        text-align: center;
+        justify-content: space-between;
+    }
+}
