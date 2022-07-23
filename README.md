@@ -11,7 +11,7 @@ The design part has been done with CSS and also Bootstrap Components.
 ## Deplyoment
 
 The is currently deployed using github pages. You can see the site live on :
-http link here.
+## https://mainakdas16.github.io/crypto-app/
 
 ## Images
 
