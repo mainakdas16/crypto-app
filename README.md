@@ -15,9 +15,12 @@ http link here.
 
 ## Images
 
-![](images/LaptopView.png)
-![](images/MobileView1.png)
-![](images/MobileView2.png)
+![](src/images/LaptopView.png)
+
+## Mobile View
+
+![](src/images/MobileView1.png)
+![](src/images/MobileView2.png)
 
 ## Available Scripts
 
